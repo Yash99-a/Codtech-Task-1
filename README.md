@@ -4,6 +4,7 @@ Company: CODTECH IT SOLUTIONS
 ID: :CT6DA1279
 Domain: Data Analytics
 Mentor: Neela Santhosh Kumar
+Duration July to August 2024
 
 Hotel Bookings Analysis Project
 
