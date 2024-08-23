@@ -1,4 +1,10 @@
 # EDA-on-Hotel-booking-Data
+Name: Yash Tukaram Shete
+Company: CODTECH IT SOLUTIONS
+ID: :CT6DA1279
+Domain: Data Analytics
+Mentor: Neela Santhosh Kumar
+
 Hotel Bookings Analysis Project
 
 This project was completed as part of my internship at Codtech IT Solutions, where I conducted an exploratory data analysis (EDA) on a hotel bookings dataset. The goal was to uncover patterns, trends, and insights that could help optimize hotel management strategies.
